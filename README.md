@@ -33,3 +33,7 @@ https://earthquake.usgs.gov/
 
 ## Author
 Aditya Kumar
+
+## Note
+
+GitHub does not render Folium interactive maps inside notebook previews due to security restrictions. To view the interactive map, open the notebook in Google Colab or run it locally.
